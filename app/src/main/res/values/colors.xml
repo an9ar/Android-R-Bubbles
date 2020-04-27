@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple200">#BB86FC</color>
+    <color name="purple500">#6200EE</color>
+    <color name="purple700">#3700B3</color>
+    <color name="teal200">#03DAC5</color>
+
+    <color name="person_name_color">#EEEEEE</color>
+    <color name="person_online_state_color">#BBBBBB</color>
+    <color name="message_color">#FF535353</color>
+    <color name="card_background_color">#FF424242</color>
+    <color name="card_background_toolbar_color">#FF313131</color>
+</resources>
