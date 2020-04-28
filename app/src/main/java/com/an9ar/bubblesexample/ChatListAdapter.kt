@@ -1,4 +1,4 @@
-package com.kubsau.bubblesexample
+package com.an9ar.bubblesexample
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

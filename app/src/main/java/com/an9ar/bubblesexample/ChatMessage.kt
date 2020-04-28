@@ -1,4 +1,4 @@
-package com.kubsau.bubblesexample
+package com.an9ar.bubblesexample
 
 data class ChatMessage(
     val message: String,
